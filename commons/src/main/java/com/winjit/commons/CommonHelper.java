@@ -1,4 +1,4 @@
-package com.credila.commons;
+package com.winjit.commons;
 
 import android.app.Activity;
 import android.app.ProgressDialog;
@@ -14,10 +14,6 @@ import android.widget.Toast;
 import android.support.design.widget.Snackbar;
 import com.squareup.picasso.Picasso;
 
-/**
- * Common methods used in application
- * Created by PrakashG on 15-02-2016.
- */
 public class CommonHelper {
 
     /**

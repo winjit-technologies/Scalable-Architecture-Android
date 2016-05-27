@@ -1,9 +1,5 @@
-package com.credila.commons;
+package com.winjit.commons;
 
-/**
- * Shared Preferences Helper.
- * Created by PrakashG on 15-02-2016.
- */
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;
