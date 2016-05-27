@@ -1,7 +1,7 @@
 package com.winjit.wsademo.Tasks;
 
 import com.android.volley.Request;
-import com.credila.commons.Web.WebRequestManager;
+import com.winjit.commons.Web.WebRequestManager;
 import com.winjit.wsademo.WinjitApp;
 import com.winjit.wsademo.constants.TaskConstants;
 import com.winjit.wsademo.entities.Profile;

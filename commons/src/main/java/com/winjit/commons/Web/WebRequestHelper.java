@@ -1,4 +1,4 @@
-package com.credila.commons.Web;
+package com.winjit.commons.Web;
 
 import com.android.volley.AuthFailureError;
 import com.android.volley.DefaultRetryPolicy;
@@ -11,10 +11,6 @@ import com.google.gson.Gson;
 
 import java.util.Map;
 
-/**
- * Web services (API) Helper.
- * Created by PrakashG on 15-04-2016.
- */
 public class WebRequestHelper<T> extends com.android.volley.Request<T> {
 
     private int SOCKET_TIMEOUT_MS = 15000;

@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.credila.commons">
+    package="com.winjit.commons">
 
     <application
         android:allowBackup="true"

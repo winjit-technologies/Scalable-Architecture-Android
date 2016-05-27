@@ -1,13 +1,10 @@
-package com.credila.commons.Web;
+package com.winjit.commons.Web;
 
 import com.android.volley.RequestQueue;
 import com.android.volley.VolleyError;
 
 import java.util.Map;
 
-/**
- * Created by PrakashG on 05-04-2016.
- */
 public class WebRequestManager implements WebRequestHelper.WebResponseListener {
 
     private WebProcessListener mWebProcessListener;

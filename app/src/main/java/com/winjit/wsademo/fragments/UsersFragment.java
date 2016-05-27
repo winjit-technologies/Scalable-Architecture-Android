@@ -10,7 +10,7 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 
-import com.credila.commons.CommonHelper;
+import com.winjit.commons.CommonHelper;
 import com.winjit.wsademo.WinjitApp;
 import com.winjit.wsademo.R;
 import com.winjit.wsademo.Tasks.Task;
